@@ -38,6 +38,10 @@ abstract class FV_Player_Pro_Ajax_Loader {
 
       if( isset($_POST['is_live']) && $_POST['is_live'] ) $this->is_live = true;
 
+      // Safari detection to avoid broken video start if video plays without signature
+      $agent = isset( $_SERVER['HTTP_USER_AGENT'] ) ? $_SERVER['HTTP_USER_AGENT'] : '';
+      $is_safari = !empty($_SERVER['HTTP_X_PLAYBACK_SESSION_ID']) && stripos($agent,'Mac OS X') !== false && preg_match("/Version\/[\d\.]+.*Safari/", $agent);
+
       foreach( $this->aDomains AS $i => $sDomains ) {
         $aDomains = explode(',',$sDomains);
         foreach( $aDomains AS $sDomain ) {
@@ -54,7 +58,14 @@ abstract class FV_Player_Pro_Ajax_Loader {
             ) {
               $secureToken = isset($this->aSecureTokens[$i]) ? $this->aSecureTokens[$i] : '';
               $originalSrc = $aVideo['src'];
-              $aVideo['src'] = $this->secure_link($aVideo['src'], $secureToken);
+              
+              // For Safari, ensure we always apply the signature to avoid broken video start
+              if( $is_safari && !empty($secureToken) ) {
+                $aVideo['src'] = $this->secure_link($aVideo['src'], $secureToken);
+              } else if( !empty($secureToken) ) {
+                $aVideo['src'] = $this->secure_link($aVideo['src'], $secureToken);
+              }
+              
               $_POST['sources'][$key] = $aVideo;
 
               $subtitles = $this->get_subtitles($originalSrc, $secureToken);
