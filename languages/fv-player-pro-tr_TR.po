@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FV Player Pro 0.7.35\n"
+"POT-Creation-Date: 2017-02-20 17:21+0100\n"
+"PO-Revision-Date: 2017-11-21 17:08+0100\n"
+"Last-Translator: Polak Maros <polak.maros@foliovision.com>\n"
+"Language-Team: Foliovision <info@foliovision.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../beta/fv-player-pro.class.php:177 ../fv-player-pro.class.php:172
+msgid "This ad will end in 0 seconds"
+msgstr "Reklamı 0 saniye sonra geçebilirsiniz"
+
+#: ../beta/fv-player-pro.class.php:182 ../fv-player-pro.class.php:177
+msgid "Skip"
+msgstr "Reklamı Atla"

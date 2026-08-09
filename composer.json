@@ -1,0 +1,6 @@
+{
+  "require-dev": {
+    "mockery/mockery": "dev-main",
+    "yoast/phpunit-polyfills": "dev-main"
+  }
+}

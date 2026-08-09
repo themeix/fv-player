@@ -1,0 +1,1236 @@
+# Copyright (C) 2025 fv-player-pro
+# This file is distributed under the same license as the fv-player-pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: fv-player-pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: foliovision\n"
+"POT-Creation-Date: 2025-03-05 12:52+0000\n"
+"Report-Msgid-Bugs-To: https://foliovision.com/support\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ads.exoclick.class.php:19, beta/ads.exoclick.class.php:19
+msgid "Exoclick Ads (Pro)"
+msgstr ""
+
+#: ads.exoclick.class.php:28, beta/ads.exoclick.class.php:28
+msgid "Exoclick zone ID (required)"
+msgstr ""
+
+#: ads.exoclick.class.php:34, beta/ads.exoclick.class.php:34
+msgid "Exoclick login"
+msgstr ""
+
+#: ads.exoclick.class.php:40, beta/ads.exoclick.class.php:40
+msgid "Exoclick category ID"
+msgstr ""
+
+#: ads.exoclick.class.php:46, beta/ads.exoclick.class.php:46
+msgid "Exoclick site ID"
+msgstr ""
+
+#: ajax-loader.class.php:230, beta/ajax-loader.class.php:238
+msgid "Domain"
+msgstr ""
+
+#: ajax-loader.class.php:232, beta/ajax-loader.class.php:240
+msgid "You can enter multiple domains separated by <code>,</code>."
+msgstr ""
+
+#: ajax-loader.class.php:237, beta/ajax-loader.class.php:245
+msgid "Secure Token"
+msgstr ""
+
+#: ajax-loader.class.php:242, beta/ajax-loader.class.php:250
+msgid "Fallback Domain"
+msgstr ""
+
+#: ajax-loader.class.php:245, beta/ajax-loader.class.php:253
+msgid "Will be used for Download feature, you can use some other CDN which you have configured on this screen."
+msgstr ""
+
+#: amazon-drive.class.php:122, beta/amazon-drive.class.php:122
+msgid "Amazon Drive"
+msgstr ""
+
+#: download.class.php:231, beta/download.class.php:231
+msgid "Use the <code>[fvplayer_download src=\"...\" caption=\"...\"]</code> shortcode to provide downloadable video to your site members - logged in users."
+msgstr ""
+
+#: download.class.php:234, beta/download.class.php:234
+msgid "Link template"
+msgstr ""
+
+#: download.class.php:237, beta/download.class.php:237
+msgid "Available tags: <code>%name%</code> <code>%class%</code> <code>%src%</code> <code>%capton%</code>"
+msgstr ""
+
+#: download.class.php:240, beta/download.class.php:240
+msgid "Disable right click note"
+msgstr ""
+
+#: download.class.php:240, beta/download.class.php:240
+msgid "If your video server forces video download you can disable the 'Please click again with right mouse button and select \"Save Link As...\", or \"Download Linked File\".' popup note here."
+msgstr ""
+
+#: download.class.php:252, fv-player-pro.class.php:2178, beta/download.class.php:252, beta/fv-player-pro.class.php:2209
+msgid "Download"
+msgstr ""
+
+#: download.class.php:385, beta/download.class.php:385
+msgid "Please click again with right mouse button and select \"Save Link As...\", or \"Download Linked File\"."
+msgstr ""
+
+#: drm-text.class.php:34, beta/drm-text.class.php:34
+msgid "Show user ID, IP and date over the video for short periods to allow you to track screen capture of your videos."
+msgstr ""
+
+#: drm-text.class.php:38, fv-player-pro.class.php:1443, beta/drm-text.class.php:38, beta/fv-player-pro.class.php:1474
+msgid "Global Enable"
+msgstr ""
+
+#: drm-text.class.php:38, beta/drm-text.class.php:38
+msgid "To enable for individual video, enable the option in <a href=\"#fv_flowplayer_interface_options\">Post Interface Options</a> and then use shortcode editor."
+msgstr ""
+
+#: drm-text.class.php:39, beta/drm-text.class.php:39
+msgid "Show IP"
+msgstr ""
+
+#: drm-text.class.php:39, beta/drm-text.class.php:39
+msgid "User IP will be visible."
+msgstr ""
+
+#: drm-text.class.php:40, beta/drm-text.class.php:40
+msgid "Show Email"
+msgstr ""
+
+#: drm-text.class.php:40, beta/drm-text.class.php:40
+msgid "User email will be visible."
+msgstr ""
+
+#: drm-text.class.php:41, beta/drm-text.class.php:41
+msgid "Show Name"
+msgstr ""
+
+#: drm-text.class.php:41, beta/drm-text.class.php:41
+msgid "User name will be visible."
+msgstr ""
+
+#: drm-text.class.php:42, beta/drm-text.class.php:42
+msgid "Show Date"
+msgstr ""
+
+#: drm-text.class.php:43, beta/drm-text.class.php:43
+msgid "Show Site"
+msgstr ""
+
+#: drm-text.class.php:45, beta/drm-text.class.php:45
+msgid "Preset"
+msgstr ""
+
+#: drm-text.class.php:50, beta/drm-text.class.php:50
+msgid "Flash - Appears just for a single frame"
+msgstr ""
+
+#: drm-text.class.php:51, beta/drm-text.class.php:51
+msgid "Watermark - Visible at all times"
+msgstr ""
+
+#: drm-text.class.php:57, fv-player-pro.class.php:1446, beta/drm-text.class.php:57, beta/fv-player-pro.class.php:1477
+msgid "Interval"
+msgstr ""
+
+#: drm-text.class.php:65, beta/drm-text.class.php:65
+msgid "5 seconds"
+msgstr ""
+
+#: drm-text.class.php:66, beta/drm-text.class.php:66
+msgid "15 seconds"
+msgstr ""
+
+#: drm-text.class.php:67, beta/drm-text.class.php:67
+msgid "0 to 10 seconds random"
+msgstr ""
+
+#: drm-text.class.php:73, beta/drm-text.class.php:73
+msgid "Opacity"
+msgstr ""
+
+#: drm-text.class.php:76, beta/drm-text.class.php:76
+msgid "The more opacity, the more the text will be visible"
+msgstr ""
+
+#: fv-player-pro.class.php:459, beta/fv-player-pro.class.php:467
+msgid "Invalid Youtube video ID."
+msgstr ""
+
+#: fv-player-pro.class.php:460, beta/fv-player-pro.class.php:468
+msgid "Please reload the page and try again."
+msgstr ""
+
+#: fv-player-pro.class.php:461, beta/fv-player-pro.class.php:469
+msgid "Please reload the page and try again in a couple of minutes. "
+msgstr ""
+
+#: fv-player-pro.class.php:462, beta/fv-player-pro.class.php:470
+msgid "Couldn't find the required video type: "
+msgstr ""
+
+#: fv-player-pro.class.php:463, beta/fv-player-pro.class.php:471
+msgid "Skip"
+msgstr ""
+
+#: fv-player-pro.class.php:464, beta/fv-player-pro.class.php:472
+msgid "Continue to video"
+msgstr ""
+
+#: fv-player-pro.class.php:465, beta/fv-player-pro.class.php:473
+msgid "Visit advertiser"
+msgstr ""
+
+#: fv-player-pro.class.php:466, beta/fv-player-pro.class.php:474
+msgid "Video Decryption Error"
+msgstr ""
+
+#: fv-player-pro.class.php:467, beta/fv-player-pro.class.php:475
+msgid "Video file expired.<br />Please reload the page and play it again."
+msgstr ""
+
+#: fv-player-pro.class.php:468, beta/fv-player-pro.class.php:476
+msgid "Video loaded, click to play."
+msgstr ""
+
+#: fv-player-pro.class.php:469, beta/fv-player-pro.class.php:477
+msgid "Your old Android device doesn't support this video type."
+msgstr ""
+
+#: fv-player-pro.class.php:470, beta/fv-player-pro.class.php:478
+msgid "Tip: Use 'i' and 'o' keys for precise loop selection"
+msgstr ""
+
+#: fv-player-pro.class.php:471, beta/fv-player-pro.class.php:479
+msgid "AB loop not available when editing with Elementor"
+msgstr ""
+
+#: fv-player-pro.class.php:472, beta/fv-player-pro.class.php:480
+msgid "Loop start set"
+msgstr ""
+
+#: fv-player-pro.class.php:473, beta/fv-player-pro.class.php:481
+msgid "Loop end set"
+msgstr ""
+
+#: fv-player-pro.class.php:474, beta/fv-player-pro.class.php:482
+msgid "Please use a modern up-to-date browser like <a href=\"https://www.mozilla.org/en-GB/firefox/new/\" target=\"_blank\">Firefox</a> or <a href=\"https://www.google.com/chrome/\" target=\"_blank\">Chrome</a>."
+msgstr ""
+
+#: fv-player-pro.class.php:475, beta/fv-player-pro.class.php:483
+msgid "AB"
+msgstr ""
+
+#: fv-player-pro.class.php:476, beta/fv-player-pro.class.php:484
+msgid "CHAPTERS"
+msgstr ""
+
+#: fv-player-pro.class.php:477, beta/fv-player-pro.class.php:485
+msgid "iCloud+ Private Internet Relay blocks HLS playback. Please use another browser."
+msgstr ""
+
+#: fv-player-pro.class.php:504, beta/fv-player-pro.class.php:512
+msgid "Accent"
+msgstr ""
+
+#: fv-player-pro.class.php:508, beta/fv-player-pro.class.php:516
+msgid "Used for AB loop color"
+msgstr ""
+
+#: fv-player-pro.class.php:537, beta/fv-player-pro.class.php:545
+msgid "Pro Features"
+msgstr ""
+
+#: fv-player-pro.class.php:538, fv-player-pro.class.php:2273, fv-player-pro.class.php:3236, beta/fv-player-pro.class.php:546, beta/fv-player-pro.class.php:2304, beta/fv-player-pro.class.php:3276
+msgid "Quality Switching"
+msgstr ""
+
+#: fv-player-pro.class.php:539, fv-player-pro.class.php:2179, fv-player-pro.class.php:2281, beta/fv-player-pro.class.php:547, beta/fv-player-pro.class.php:2210, beta/fv-player-pro.class.php:2312
+msgid "DRM Text"
+msgstr ""
+
+#: fv-player-pro.class.php:540, beta/fv-player-pro.class.php:548
+msgid "Prompt to Continue Watching"
+msgstr ""
+
+#: fv-player-pro.class.php:541, beta/fv-player-pro.class.php:549
+msgid "Video Transcript"
+msgstr ""
+
+#: fv-player-pro.class.php:544, beta/fv-player-pro.class.php:552
+msgid "CloudFront (Pro)"
+msgstr ""
+
+#: fv-player-pro.class.php:545, beta/fv-player-pro.class.php:553
+msgid "Vimeo (Pro)"
+msgstr ""
+
+#: fv-player-pro.class.php:549, beta/fv-player-pro.class.php:557
+msgid "Video Ads (Pro)"
+msgstr ""
+
+#: fv-player-pro.class.php:707, beta/fv-player-pro.class.php:725
+msgid "Settings"
+msgstr ""
+
+#: fv-player-pro.class.php:730, beta/fv-player-pro.class.php:748
+msgid "Documentation"
+msgstr ""
+
+#: fv-player-pro.class.php:751, beta/fv-player-pro.class.php:769
+msgid "Use site default"
+msgstr ""
+
+#: fv-player-pro.class.php:753, beta/fv-player-pro.class.php:771
+msgid "No ad"
+msgstr ""
+
+#: fv-player-pro.class.php:754, beta/fv-player-pro.class.php:772
+msgid "Random"
+msgstr ""
+
+#: fv-player-pro.class.php:792, beta/fv-player-pro.class.php:810
+msgid "FV Player Pro: Please upgrade to FV Player version 8 or above!"
+msgstr ""
+
+#: fv-player-pro.class.php:804, beta/fv-player-pro.class.php:822
+msgid "FV Player Pro: Please upgrade to FV Player Vimeo Security version 7.5.46.727 or above, otherwise the Vimeo videos are not protected!"
+msgstr ""
+
+#: fv-player-pro.class.php:806, beta/fv-player-pro.class.php:824
+msgid "Please reinstall FV Player Vimeo Security from a ZIP file which you download on %s."
+msgstr ""
+
+#: fv-player-pro.class.php:823, beta/fv-player-pro.class.php:841
+msgid "<strong>FV Player Pro:</strong> Base plugin FV Player is not installed or activated. Please <a href=\"plugin-install.php?tab=plugin-information&plugin=fv-player\" target=\"_blank\" title=\"FV Wordpress Flowplayer install page\">install</a> it and activate the license."
+msgstr ""
+
+#: fv-player-pro.class.php:835, beta/fv-player-pro.class.php:853
+msgid "The FV Player plugin is essential for FV Player Pro plugin.\nDeactivating it will cause it not to function.\nAre You sure You want to Deactivate it?"
+msgstr ""
+
+#: fv-player-pro.class.php:1250, beta/fv-player-pro.class.php:1281
+msgid "Autoplay just once"
+msgstr ""
+
+#: fv-player-pro.class.php:1250, beta/fv-player-pro.class.php:1281
+msgid "Makes sure each video autoplays only once for each visitor per week. Uses a cookie."
+msgstr ""
+
+#: fv-player-pro.class.php:1251, beta/fv-player-pro.class.php:1282
+msgid "Custom start/end time"
+msgstr ""
+
+#: fv-player-pro.class.php:1251, beta/fv-player-pro.class.php:1282
+msgid "Show only a smaller portion of your video."
+msgstr ""
+
+#: fv-player-pro.class.php:1251, beta/fv-player-pro.class.php:1282
+msgid "Not suitable as a content restriction, as the full video can be obtained by any skilled web developer and the feature doesn't work on iOS < 7 (use HLS and it will work on iOS 5 and 6) and Android < 4."
+msgstr ""
+
+#: fv-player-pro.class.php:1252, beta/fv-player-pro.class.php:1283
+msgid "Scroll autoplay"
+msgstr ""
+
+#: fv-player-pro.class.php:1252, beta/fv-player-pro.class.php:1283
+msgid "Automatically plays any video that comes into the browser viewport when scrolling down the page"
+msgstr ""
+
+#: fv-player-pro.class.php:1253, beta/fv-player-pro.class.php:1284
+msgid ""
+msgstr ""
+
+#: fv-player-pro.class.php:1253, beta/fv-player-pro.class.php:1284
+msgid "Also work when scrolling up and do not stop autoplaying other videos on page if user paused some video"
+msgstr ""
+
+#: fv-player-pro.class.php:1254, fv-player-pro.class.php:2176, fv-player-pro.class.php:2238, beta/fv-player-pro.class.php:1285, beta/fv-player-pro.class.php:2207, beta/fv-player-pro.class.php:2269
+msgid "AB Loop"
+msgstr ""
+
+#: fv-player-pro.class.php:1254, beta/fv-player-pro.class.php:1285
+msgid "Turn on AB Loop by default."
+msgstr ""
+
+#: fv-player-pro.class.php:1256, beta/fv-player-pro.class.php:1287
+msgid "Debug"
+msgstr ""
+
+#: fv-player-pro.class.php:1258, beta/fv-player-pro.class.php:1289
+msgid "Print debug messages to JS console."
+msgstr ""
+
+#: fv-player-pro.class.php:1259, beta/fv-player-pro.class.php:1290
+msgid "With the Verbose setting Vimeo API calls and encrypted HLS playback is logged into %s."
+msgstr ""
+
+#: fv-player-pro.class.php:1261, beta/fv-player-pro.class.php:1292
+msgid "Off"
+msgstr ""
+
+#: fv-player-pro.class.php:1262, beta/fv-player-pro.class.php:1293
+msgid "On"
+msgstr ""
+
+#: fv-player-pro.class.php:1263, beta/fv-player-pro.class.php:1294
+msgid "Verbose"
+msgstr ""
+
+#: fv-player-pro.class.php:1281, beta/fv-player-pro.class.php:1312
+msgid "Cloudflare support"
+msgstr ""
+
+#: fv-player-pro.class.php:1281, beta/fv-player-pro.class.php:1312
+msgid "Enable if your website is behind the Cloudflare WAF."
+msgstr ""
+
+#: fv-player-pro.class.php:1281, beta/fv-player-pro.class.php:1312
+msgid "Used to avoid IP spoofing. We detect the CF_CONNECTING_IP HTTP header."
+msgstr ""
+
+#: fv-player-pro.class.php:1283, beta/fv-player-pro.class.php:1314
+msgid "Chapters below player"
+msgstr ""
+
+#: fv-player-pro.class.php:1283, beta/fv-player-pro.class.php:1314
+msgid "Show VTT chapters below player."
+msgstr ""
+
+#: fv-player-pro.class.php:1283, beta/fv-player-pro.class.php:1314
+msgid "Normally the only show on timeline and in controlbar menu (in fullscreen)."
+msgstr ""
+
+#: fv-player-pro.class.php:1285, beta/fv-player-pro.class.php:1316
+msgid "Chromecast Encrypted HLS"
+msgstr ""
+
+#: fv-player-pro.class.php:1285, beta/fv-player-pro.class.php:1316
+msgid "Allow encrypted HLS streams to play via Chromecast. Lowers the video protection."
+msgstr ""
+
+#: fv-player-pro.class.php:1287, beta/fv-player-pro.class.php:1318
+msgid "Cookie Protected Encrypted HLS"
+msgstr ""
+
+#: fv-player-pro.class.php:1287, beta/fv-player-pro.class.php:1318
+msgid "Use cookies instead of IP addresses when serving HLS decryption keys."
+msgstr ""
+
+#: fv-player-pro.class.php:1287, beta/fv-player-pro.class.php:1318
+msgid "This lowers the video protection, but works with iCloud Private Relay or other VPNs that change IP addresses too often."
+msgstr ""
+
+#: fv-player-pro.class.php:1319, beta/fv-player-pro.class.php:1350
+msgid "See Amazon Web Services Account -> Security Credentials -> CloudFront Key Pairs to get your key pair. We need the Access Key ID and the private key. See our <a href=\"http://foliovision.com/player/secure-amazon-s3-guide#cloudfront\" target=\"_blank\">CloudFront guide</a>."
+msgstr ""
+
+#: fv-player-pro.class.php:1324, beta/fv-player-pro.class.php:1355
+msgid "CloudFront domain"
+msgstr ""
+
+#: fv-player-pro.class.php:1327, beta/fv-player-pro.class.php:1358
+msgid "Enter {something}.cloudfront.net or your mapped domain. You can enter both, separated by <code>,</code>."
+msgstr ""
+
+#: fv-player-pro.class.php:1331, hls.class.php:99, beta/fv-player-pro.class.php:1362, beta/hls.class.php:99
+msgid "Access Key ID"
+msgstr ""
+
+#: fv-player-pro.class.php:1337, beta/fv-player-pro.class.php:1368
+msgid "Private Key"
+msgstr ""
+
+#: fv-player-pro.class.php:1342, beta/fv-player-pro.class.php:1373
+msgid "Your Private Key file is present"
+msgstr ""
+
+#: fv-player-pro.class.php:1342, beta/fv-player-pro.class.php:1373
+msgid "and appears to be valid"
+msgstr ""
+
+#: fv-player-pro.class.php:1342, beta/fv-player-pro.class.php:1373
+msgid "but <strong>invalid</strong> (Make sure it contains both \"BEGIN RSA PRIVATE KEY\" and \"END RSA PRIVATE KEY\")"
+msgstr ""
+
+#: fv-player-pro.class.php:1342, beta/fv-player-pro.class.php:1373
+msgid "Click"
+msgstr ""
+
+#: fv-player-pro.class.php:1342, beta/fv-player-pro.class.php:1373
+msgid " to put in a new one"
+msgstr ""
+
+#: fv-player-pro.class.php:1344, beta/fv-player-pro.class.php:1375
+msgid "Enter your Private Key file here."
+msgstr ""
+
+#: fv-player-pro.class.php:1366, beta/fv-player-pro.class.php:1397
+msgid "If you upload your videos in multiple qualities like <code>my-video-hd.mp4</code>, <code>my-video-sd.mp4</code>, <code>my-video-mobile.mp4</code>, then enter the <code>-hd</code>, <code>-sd</code> and <code>-mobile</code> filename parts into the fields below together with the labels. Then enable the quality switching for the video in the [fvplayer] shortcode. See <a href=\"https://foliovision.com/player/switch-video-quality\" target=\"_new\">How to set up quality switching</a>"
+msgstr ""
+
+#: fv-player-pro.class.php:1376, beta/fv-player-pro.class.php:1407
+msgid "Naming scheme"
+msgstr ""
+
+#: fv-player-pro.class.php:1379, beta/fv-player-pro.class.php:1410
+msgid "Label"
+msgstr ""
+
+#: fv-player-pro.class.php:1394, fv-player-pro.class.php:1670, fv-player-pro.class.php:1632, beta/fv-player-pro.class.php:1425, beta/fv-player-pro.class.php:1701, beta/fv-player-pro.class.php:1663
+msgid "Remove"
+msgstr ""
+
+#: fv-player-pro.class.php:1406, beta/fv-player-pro.class.php:1437
+msgid "Add quality settings"
+msgstr ""
+
+#: fv-player-pro.class.php:1439, beta/fv-player-pro.class.php:1470
+msgid "Asks user to hit a button to continue watching a video to  save your bandwidth on long playback sessions."
+msgstr ""
+
+#: fv-player-pro.class.php:1448, beta/fv-player-pro.class.php:1479
+msgid "Moving a mouse or hitting a key will reset the counter."
+msgstr ""
+
+#: fv-player-pro.class.php:1451, beta/fv-player-pro.class.php:1482
+msgid "1 minute"
+msgstr ""
+
+#: fv-player-pro.class.php:1452, beta/fv-player-pro.class.php:1483
+msgid "2 minutes"
+msgstr ""
+
+#: fv-player-pro.class.php:1453, beta/fv-player-pro.class.php:1484
+msgid "3 minutes"
+msgstr ""
+
+#: fv-player-pro.class.php:1454, beta/fv-player-pro.class.php:1485
+msgid "5 minutes"
+msgstr ""
+
+#: fv-player-pro.class.php:1455, beta/fv-player-pro.class.php:1486
+msgid "10 minutes"
+msgstr ""
+
+#: fv-player-pro.class.php:1456, beta/fv-player-pro.class.php:1487
+msgid "15 minutes"
+msgstr ""
+
+#: fv-player-pro.class.php:1457, beta/fv-player-pro.class.php:1488
+msgid "30 minutes"
+msgstr ""
+
+#: fv-player-pro.class.php:1458, beta/fv-player-pro.class.php:1489
+msgid "1 hour"
+msgstr ""
+
+#: fv-player-pro.class.php:1459, beta/fv-player-pro.class.php:1490
+msgid "2 hours"
+msgstr ""
+
+#: fv-player-pro.class.php:1460, fv-player-pro.class.php:1577, beta/fv-player-pro.class.php:1491, beta/fv-player-pro.class.php:1608
+msgid "3 hours"
+msgstr ""
+
+#: fv-player-pro.class.php:1464, beta/fv-player-pro.class.php:1495
+msgid "Message"
+msgstr ""
+
+#: fv-player-pro.class.php:1483, beta/fv-player-pro.class.php:1514
+msgid "Transcript Theme"
+msgstr ""
+
+#: fv-player-pro.class.php:1488, beta/fv-player-pro.class.php:1519
+msgid "Light"
+msgstr ""
+
+#: fv-player-pro.class.php:1489, beta/fv-player-pro.class.php:1520
+msgid "Dark"
+msgstr ""
+
+#: fv-player-pro.class.php:1490, beta/fv-player-pro.class.php:1521
+msgid "Boxy"
+msgstr ""
+
+#: fv-player-pro.class.php:1493, beta/fv-player-pro.class.php:1524
+msgid "Hidden by default"
+msgstr ""
+
+#: fv-player-pro.class.php:1493, beta/fv-player-pro.class.php:1524
+msgid "Transcript only shows up after hitting the button in player control bar."
+msgstr ""
+
+#: fv-player-pro.class.php:1494, beta/fv-player-pro.class.php:1525
+msgid "Separate subtitle disabling"
+msgstr ""
+
+#: fv-player-pro.class.php:1511, beta/fv-player-pro.class.php:1542
+msgid "This feature lets You configure multiple, clickable Video Ads, that can be played before or after Your videos."
+msgstr ""
+
+#: fv-player-pro.class.php:1514, beta/fv-player-pro.class.php:1545
+msgid "You can configure video ads globally, or on a per video basis."
+msgstr ""
+
+#: fv-player-pro.class.php:1534, beta/fv-player-pro.class.php:1565
+msgid "Default pre-roll ad"
+msgstr ""
+
+#: fv-player-pro.class.php:1539, beta/fv-player-pro.class.php:1570
+msgid "Set which ad should be played before videos."
+msgstr ""
+
+#: fv-player-pro.class.php:1544, beta/fv-player-pro.class.php:1575
+msgid "Default post-roll ad"
+msgstr ""
+
+#: fv-player-pro.class.php:1549, beta/fv-player-pro.class.php:1580
+msgid "Set which ad should be played after videos. If you mainly use YouTube, make sure you use a YouTube video for the ad to ensure best experience for iPhone users."
+msgstr ""
+
+#: fv-player-pro.class.php:1554, beta/fv-player-pro.class.php:1585
+msgid "Pre-roll &amp; post-roll ads between videos"
+msgstr ""
+
+#: fv-player-pro.class.php:1554, beta/fv-player-pro.class.php:1585
+msgid "Pre-roll and post-roll ads will be played when a playlist video changes."
+msgstr ""
+
+#: fv-player-pro.class.php:1557, beta/fv-player-pro.class.php:1588
+msgid "Default ad skip time"
+msgstr ""
+
+#: fv-player-pro.class.php:1560, beta/fv-player-pro.class.php:1591
+msgid "Ad can be skipped after "
+msgstr ""
+
+#: fv-player-pro.class.php:1561, fv-player-pro.class.php:1563, beta/fv-player-pro.class.php:1592, beta/fv-player-pro.class.php:1594
+msgid "Enter value in seconds"
+msgstr ""
+
+#: fv-player-pro.class.php:1562, beta/fv-player-pro.class.php:1593
+msgid " seconds if longer than "
+msgstr ""
+
+#: fv-player-pro.class.php:1564, beta/fv-player-pro.class.php:1595
+msgid " seconds."
+msgstr ""
+
+#: fv-player-pro.class.php:1569, beta/fv-player-pro.class.php:1600
+msgid "Limit ad playback"
+msgstr ""
+
+#: fv-player-pro.class.php:1569, beta/fv-player-pro.class.php:1600
+msgid "Each browser will get each ad only once per period configured below:"
+msgstr ""
+
+#: fv-player-pro.class.php:1574, beta/fv-player-pro.class.php:1605
+msgid "Limit ad playback period"
+msgstr ""
+
+#: fv-player-pro.class.php:1578, beta/fv-player-pro.class.php:1609
+msgid "6 hours"
+msgstr ""
+
+#: fv-player-pro.class.php:1579, beta/fv-player-pro.class.php:1610
+msgid "12 hours"
+msgstr ""
+
+#: fv-player-pro.class.php:1580, beta/fv-player-pro.class.php:1611
+msgid "1 day"
+msgstr ""
+
+#: fv-player-pro.class.php:1581, beta/fv-player-pro.class.php:1612
+msgid "2 days"
+msgstr ""
+
+#: fv-player-pro.class.php:1592, beta/fv-player-pro.class.php:1623
+msgid "ID"
+msgstr ""
+
+#: fv-player-pro.class.php:1592, beta/fv-player-pro.class.php:1623
+msgid "Status"
+msgstr ""
+
+#: fv-player-pro.class.php:1662, fv-player-pro.class.php:1625, beta/fv-player-pro.class.php:1693, beta/fv-player-pro.class.php:1656
+msgid "Name"
+msgstr ""
+
+#: fv-player-pro.class.php:1662, fv-player-pro.class.php:1625, beta/fv-player-pro.class.php:1693, beta/fv-player-pro.class.php:1656
+msgid "Ad name"
+msgstr ""
+
+#: fv-player-pro.class.php:1663, fv-player-pro.class.php:1626, beta/fv-player-pro.class.php:1694, beta/fv-player-pro.class.php:1657
+msgid "Click URL"
+msgstr ""
+
+#: fv-player-pro.class.php:1663, fv-player-pro.class.php:1626, beta/fv-player-pro.class.php:1694, beta/fv-player-pro.class.php:1657
+msgid "Clicking the video ad will open the URL in new window"
+msgstr ""
+
+#: fv-player-pro.class.php:1664, fv-player-pro.class.php:1627, beta/fv-player-pro.class.php:1695, beta/fv-player-pro.class.php:1658
+msgid "Video"
+msgstr ""
+
+#: fv-player-pro.class.php:1664, fv-player-pro.class.php:1627, beta/fv-player-pro.class.php:1695, beta/fv-player-pro.class.php:1658
+msgid "Enter the video URL here"
+msgstr ""
+
+#: fv-player-pro.class.php:1668, fv-player-pro.class.php:1631, beta/fv-player-pro.class.php:1699, beta/fv-player-pro.class.php:1662
+msgid "Disable"
+msgstr ""
+
+#: fv-player-pro.class.php:1685, beta/fv-player-pro.class.php:1716
+msgid "Add more video ads"
+msgstr ""
+
+#: fv-player-pro.class.php:1718, beta/fv-player-pro.class.php:1749
+msgid "Are you sure you want to remove the video ad?"
+msgstr ""
+
+#: fv-player-pro.class.php:1738, beta/fv-player-pro.class.php:1769
+msgid "Advanced Vimeo embedding"
+msgstr ""
+
+#: fv-player-pro.class.php:1738, beta/fv-player-pro.class.php:1769
+msgid "Use Vimeo as your video host and use all of FV Flowplayer features."
+msgstr ""
+
+#: fv-player-pro.class.php:1741, beta/fv-player-pro.class.php:1772
+msgid "Access token"
+msgstr ""
+
+#: fv-player-pro.class.php:1744, beta/fv-player-pro.class.php:1775
+msgid "Defined as FV_PLAYER_VIMEO_KEY in your wp-config.php: "
+msgstr ""
+
+#: fv-player-pro.class.php:1768, beta/fv-player-pro.class.php:1799
+msgid "Your Vimeo access token has been successfully verified (last check"
+msgstr ""
+
+#: fv-player-pro.class.php:1774, beta/fv-player-pro.class.php:1805
+msgid " There were %s API errors, last one from %s."
+msgstr ""
+
+#: fv-player-pro.class.php:1814, beta/fv-player-pro.class.php:1845
+msgid "Currently "
+msgstr ""
+
+#: fv-player-pro.class.php:1815, beta/fv-player-pro.class.php:1846
+msgid " Vimeo video is cached."
+msgstr ""
+
+#: fv-player-pro.class.php:1815, beta/fv-player-pro.class.php:1846
+msgid " Vimeo videos are cached."
+msgstr ""
+
+#: fv-player-pro.class.php:1759, beta/fv-player-pro.class.php:1790
+msgid "Your Vimeo access token is invalid: "
+msgstr ""
+
+#: fv-player-pro.class.php:1766, vimeo.class.php:877, beta/fv-player-pro.class.php:1797, beta/vimeo.class.php:877
+msgid "last check"
+msgstr ""
+
+#: fv-player-pro.class.php:1829, fv-player-pro.class.php:1900, beta/fv-player-pro.class.php:1860, beta/fv-player-pro.class.php:1931
+msgid "Disable video captions"
+msgstr ""
+
+#: fv-player-pro.class.php:1829, fv-player-pro.class.php:1900, beta/fv-player-pro.class.php:1860, beta/fv-player-pro.class.php:1931
+msgid "Normally the video title is parsed into the shortcode when saving the post, with this setting it won't appear."
+msgstr ""
+
+#: fv-player-pro.class.php:1833, beta/fv-player-pro.class.php:1864
+msgid "Force <code>iframe</code> Embedding"
+msgstr ""
+
+#: fv-player-pro.class.php:1833, beta/fv-player-pro.class.php:1864
+msgid "If you experience issues with our Vimeo integration you can enable this option temporarily to fix playback of at least single videos. Playlists and lightbox are not supported."
+msgstr ""
+
+#: fv-player-pro.class.php:1838, beta/fv-player-pro.class.php:1869
+msgid "Turbocharge Ajax Vimeo loading"
+msgstr ""
+
+#: fv-player-pro.class.php:1846, beta/fv-player-pro.class.php:1877
+msgid "Vimeo requests will be handled by a simple PHP file rather than loading entire WordPress."
+msgstr ""
+
+#: fv-player-pro.class.php:1855, beta/fv-player-pro.class.php:1886
+msgid "To use this feature you have to put the following into your wp-config.php file:"
+msgstr ""
+
+#: fv-player-pro.class.php:1864, beta/fv-player-pro.class.php:1895
+msgid "Please check your video playback carefully after enabling."
+msgstr ""
+
+#: fv-player-pro.class.php:1876, beta/fv-player-pro.class.php:1907
+msgid "Convert Vimeo embed codes"
+msgstr ""
+
+#: fv-player-pro.class.php:1876, beta/fv-player-pro.class.php:1907
+msgid "This converts the IFRAME and OBJECT Vimeo embeds in post content and post meta into [fvplayer] shortcodes.\n\n Please make sure you backup your database before continuing."
+msgstr ""
+
+#: fv-player-pro.class.php:1878, beta/fv-player-pro.class.php:1909
+msgid "Refresh splash screens and durations"
+msgstr ""
+
+#: fv-player-pro.class.php:1878, beta/fv-player-pro.class.php:1909
+msgid "The automated Vimeo splash screens and video duration data will be removed and then fetched using background jobs.\n\n Please make sure you backup your database before continuing."
+msgstr ""
+
+#: fv-player-pro.class.php:1901, beta/fv-player-pro.class.php:1932
+msgid "Disable YouTube <a href='#'>Video Ads</a> on mobile"
+msgstr ""
+
+#: fv-player-pro.class.php:1901, beta/fv-player-pro.class.php:1932
+msgid "Using FV Player Pro Video Ads for YouTube only works for iOS >= 10 and Android >= 6."
+msgstr ""
+
+#: fv-player-pro.class.php:1901, beta/fv-player-pro.class.php:1932
+msgid "Use this checkbox to disable it completely for all mobile phones if you get any complaints."
+msgstr ""
+
+#: fv-player-pro.class.php:1913, beta/fv-player-pro.class.php:1944
+msgid "Convert YouTube embed codes"
+msgstr ""
+
+#: fv-player-pro.class.php:1913, beta/fv-player-pro.class.php:1944
+msgid "This converts the IFRAME and OBJECT YouTube embeds in post content and post meta into [fvplayer] shortcodes.\n\n Please make sure you backup your database before continuing."
+msgstr ""
+
+#: fv-player-pro.class.php:2142, beta/fv-player-pro.class.php:2173
+msgid "Flip"
+msgstr ""
+
+#: fv-player-pro.class.php:2176, beta/fv-player-pro.class.php:2207
+msgid "Adds shortcode editor option for AB loop function"
+msgstr ""
+
+#: fv-player-pro.class.php:2177, fv-player-pro.class.php:3284, fv-player-pro.class.php:3335, fv-player-pro.class.php:3419, beta/fv-player-pro.class.php:2208, beta/fv-player-pro.class.php:3324, beta/fv-player-pro.class.php:3375, beta/fv-player-pro.class.php:3459
+msgid "Chapters"
+msgstr ""
+
+#: fv-player-pro.class.php:2177, beta/fv-player-pro.class.php:2208
+msgid "Supports VTT chapters."
+msgstr ""
+
+#: fv-player-pro.class.php:2180, fv-player-pro.class.php:2247, beta/fv-player-pro.class.php:2211, beta/fv-player-pro.class.php:2278
+msgid "Horizontal Flip"
+msgstr ""
+
+#: fv-player-pro.class.php:2180, beta/fv-player-pro.class.php:2211
+msgid "Adds shortcode editor option for a user button to flip video horizontally."
+msgstr ""
+
+#: fv-player-pro.class.php:2181, fv-player-pro.class.php:2255, beta/fv-player-pro.class.php:2212, beta/fv-player-pro.class.php:2286
+msgid "Randomize Autoplay Playlist"
+msgstr ""
+
+#: fv-player-pro.class.php:2182, fv-player-pro.class.php:2264, beta/fv-player-pro.class.php:2213, beta/fv-player-pro.class.php:2295
+msgid "Refresh Random Video Button"
+msgstr ""
+
+#: fv-player-pro.class.php:2418, beta/fv-player-pro.class.php:2449
+msgid "FV Player Pro"
+msgstr ""
+
+#: fv-player-pro.class.php:2421, beta/fv-player-pro.class.php:2452
+msgid "Dismiss"
+msgstr ""
+
+#: fv-player-pro.class.php:3212, beta/fv-player-pro.class.php:3252
+msgid "Pre-roll Ad"
+msgstr ""
+
+#: fv-player-pro.class.php:3218, beta/fv-player-pro.class.php:3258
+msgid "Post-roll Ad"
+msgstr ""
+
+#: fv-player-pro.class.php:3239, beta/fv-player-pro.class.php:3279
+msgid "Show hint"
+msgstr ""
+
+#: fv-player-pro.class.php:3248, fv-player-pro.class.php:3296, fv-player-pro.class.php:3352, beta/fv-player-pro.class.php:3288, beta/fv-player-pro.class.php:3336, beta/fv-player-pro.class.php:3392
+msgid "Encrypted HLS"
+msgstr ""
+
+#: fv-player-pro.class.php:3250, fv-player-pro.class.php:3298, beta/fv-player-pro.class.php:3290, beta/fv-player-pro.class.php:3338
+msgid "Decryption key"
+msgstr ""
+
+#: fv-player-pro.class.php:3253, beta/fv-player-pro.class.php:3293
+msgid "Encryption key"
+msgstr ""
+
+#: fv-player-pro.class.php:3255, beta/fv-player-pro.class.php:3295
+msgid "Decrypt"
+msgstr ""
+
+#: fv-player-pro.class.php:3275, beta/fv-player-pro.class.php:3315
+msgid "Start/End"
+msgstr ""
+
+#: fv-player-pro.class.php:3279, beta/fv-player-pro.class.php:3319
+msgid "Enter hh:mm:ss. You may enter both or just one value, leave empty for full video."
+msgstr ""
+
+#: fv-player-pro.class.php:3288, fv-player-pro.class.php:3339, beta/fv-player-pro.class.php:3328, beta/fv-player-pro.class.php:3379
+msgid "Add Chapters"
+msgstr ""
+
+#: fv-player-pro.class.php:3324, fv-player-pro.class.php:3428, beta/fv-player-pro.class.php:3364, beta/fv-player-pro.class.php:3468
+msgid "Transcript"
+msgstr ""
+
+#: fv-player-pro.class.php:3328, beta/fv-player-pro.class.php:3368
+msgid "Add Transcript"
+msgstr ""
+
+#: fv-player-pro.class.php:3360, beta/fv-player-pro.class.php:3400
+msgid "Custom Start"
+msgstr ""
+
+#: fv-player-pro.class.php:3368, beta/fv-player-pro.class.php:3408
+msgid "Custom End"
+msgstr ""
+
+#: fv-player-pro.class.php:3376, beta/fv-player-pro.class.php:3416
+msgid "Enable Download"
+msgstr ""
+
+#: fv-player-pro.class.php:3393, beta/fv-player-pro.class.php:3433
+msgid "Download (SD)"
+msgstr ""
+
+#: fv-player-pro.class.php:3401, beta/fv-player-pro.class.php:3441
+msgid "Download (HD)"
+msgstr ""
+
+#: fv-player-pro.class.php:3437, beta/fv-player-pro.class.php:3477
+msgid "Preserve original formatting"
+msgstr ""
+
+#: fv-player-pro.php:112
+msgid "FV Player Pro: You just upgraded to %s release with the following improvements:"
+msgstr ""
+
+#: fv-player-pro.php:115
+msgid "Thanks for letting me know!"
+msgstr ""
+
+#: fv-player-pro.php:243
+msgid "Are you sure you want to switch your FV Player Pro release to beta?"
+msgstr ""
+
+#: fv-player-pro.php:246
+msgid "Are you sure you want to switch your FV Player Pro beta to release?"
+msgstr ""
+
+#: fv-player-pro.php:331
+msgid "Your FV Player 7 plugin is Network Activated, please go to Network Admin -> Plugins and <a href=\"%s\">install FV Player 8</a>."
+msgstr ""
+
+#: fv-player-pro.php:340
+msgid "Please go to wp-admin -> Plugins and <a href=\"%s\">install FV Player 8</a> manually."
+msgstr ""
+
+#: fv-player-pro.php:353
+msgid "FV Player 7 failed to deactivate."
+msgstr ""
+
+#: fv-player-pro.php:366
+msgid "FV Player 8 failed to install."
+msgstr ""
+
+#: fv-player-pro.php:382
+msgid "Activating FV Player 8. If this action does not complete, please click the button below."
+msgstr ""
+
+#: fv-player-pro.php:384
+msgid "Activate FV Player 8"
+msgstr ""
+
+#: fv-player-pro.php:415
+msgid "FV Player Pro: You are using the old FV Player 7 plugin."
+msgstr ""
+
+#: fv-player-pro.php:432
+msgid "Please contact your WordPress website administrator."
+msgstr ""
+
+#: fv-player-pro.php:421
+msgid "Please install FV Player 8. <a href=\"%s\" class=\"button button-primary\">Upgrade</a>"
+msgstr ""
+
+#: hls.class.php:66, beta/hls.class.php:66
+msgid "Encrypted Playback for 3rd Party Domains (Pro)"
+msgstr ""
+
+#: hls.class.php:73, beta/hls.class.php:73
+msgid "Amazon AWS Decoder (Pro)"
+msgstr ""
+
+#: hls.class.php:91, beta/hls.class.php:91
+msgid "Amazon Elastic Transcoder is slowly getting deprecated, AWS Elemental MediaConvert or <a href=\"https://foliovision.com/player/securing-your-video/encrypted-hls-coconut\" target=\"_blank\">Coconut</a> should be used instead."
+msgstr ""
+
+#: hls.class.php:94, beta/hls.class.php:94
+msgid "You need to setup your key decoder to be able to use encrypted HLS streams on AWS. See our <a href=\"https://foliovision.com/player/video-hosting/securing-your-video/hls-stream\" target=\"_blank\">HLS guide</a>."
+msgstr ""
+
+#: hls.class.php:105, beta/hls.class.php:105
+msgid "Access Key Secret"
+msgstr ""
+
+#: hls.class.php:112, beta/hls.class.php:112
+msgid "Region"
+msgstr ""
+
+#: hls.class.php:115, beta/hls.class.php:115
+msgid "Select the region"
+msgstr ""
+
+#: hls.class.php:116, beta/hls.class.php:116
+msgid "Frankfurt"
+msgstr ""
+
+#: hls.class.php:117, beta/hls.class.php:117
+msgid "Ireland"
+msgstr ""
+
+#: hls.class.php:118, beta/hls.class.php:118
+msgid "Northern California"
+msgstr ""
+
+#: hls.class.php:119, beta/hls.class.php:119
+msgid "Oregon"
+msgstr ""
+
+#: hls.class.php:120, beta/hls.class.php:120
+msgid "Sao Paulo"
+msgstr ""
+
+#: hls.class.php:121, beta/hls.class.php:121
+msgid "Singapore"
+msgstr ""
+
+#: hls.class.php:122, beta/hls.class.php:122
+msgid "Sydney"
+msgstr ""
+
+#: hls.class.php:123, beta/hls.class.php:123
+msgid "Tokyo"
+msgstr ""
+
+#: hls.class.php:124, beta/hls.class.php:124
+msgid "US Standard"
+msgstr ""
+
+#: hls.class.php:210, beta/hls.class.php:210
+msgid "Any video encrypted for FV Player uses the actual website to get the decryption key. This improves the video protection but also breaks the video playback if your website domain changes."
+msgstr ""
+
+#: hls.class.php:213, beta/hls.class.php:213
+msgid "Use this tool to enter the website domains which should be allowed to play on your website. You will still need the decryption key in your FV Player database and the domain has to have a license too - to prevent video piracy. Note that all the subdomains are allowed by default."
+msgstr ""
+
+#: hls.class.php:228, hls.class.php:232, beta/hls.class.php:228, beta/hls.class.php:232
+msgid "Add domain"
+msgstr ""
+
+#: ok-ru.class.php:60, beta/ok-ru.class.php:60
+msgid "ok.ru error - please check if video is not live or 18+"
+msgstr ""
+
+#: peertube-private-browser.class.php:77, beta/peertube-private-browser.class.php:94
+msgid "This file is currently being processed by Peertube."
+msgstr ""
+
+#: peertube-private.class.php:318, beta/peertube-private.class.php:332
+msgid "URL"
+msgstr ""
+
+#: peertube-private.class.php:323, beta/peertube-private.class.php:337
+msgid "Username"
+msgstr ""
+
+#: peertube-private.class.php:328, beta/peertube-private.class.php:342
+msgid "Password"
+msgstr ""
+
+#: peertube-private.class.php:461, beta/peertube-private.class.php:479
+msgid "PeerTube Self-Hosted"
+msgstr ""
+
+#: peertube-private.class.php:481, peertube.class.php:101, beta/peertube-private.class.php:499, beta/peertube.class.php:101
+msgid "PeerTube error: Unsupported domain or private video."
+msgstr ""
+
+#: peertube.class.php:86, beta/peertube.class.php:86
+msgid "PeerTube"
+msgstr ""
+
+#: rcp-bridge.php:80, beta/rcp-bridge.php:80
+msgid "FV Player Pro integrates with <a href=\"http://restrictcontentpro.com/pricing/\">Restrict Content Pro</a> for pay per view - video rentals. You must install Restrict Content Pro first."
+msgstr ""
+
+#: s3.class.php:68, beta/s3.class.php:68
+msgid "Amazon S3 Ajax (Pro)"
+msgstr ""
+
+#: s3.class.php:73, beta/s3.class.php:73
+msgid "Check this to improve security of your Amazon S3 videos configured in Hosting -> Amazon S3 Protected Content."
+msgstr ""
+
+#: stream-loader.class.php:383, beta/stream-loader.class.php:383
+msgid "Since the <code>m3u8</code> files are static they cannot use video segment URLs with time-sensitive tokens. Stream Loader gets past this limitation by inserting proper URL tokens on the fly."
+msgstr ""
+
+#: stream-loader.class.php:384, beta/stream-loader.class.php:384
+msgid "Enhance your HLS video security by enabling the URL tokens on your CDN and configuring it in the Hosting tab."
+msgstr ""
+
+#: stream-loader.class.php:401, beta/stream-loader.class.php:401
+msgid "Enable"
+msgstr ""
+
+#: stream-loader.class.php:401, beta/stream-loader.class.php:401
+msgid "Make sure your CDN Domain and Secure Token in configured in the Hosting tab."
+msgstr ""
+
+#: stream-loader.class.php:402, beta/stream-loader.class.php:402
+msgid "Speed-up"
+msgstr ""
+
+#: stream-loader.class.php:402, beta/stream-loader.class.php:402
+msgid "Activate for faster serving."
+msgstr ""
+
+#: stream-loader.class.php:402, beta/stream-loader.class.php:402
+msgid "Will bypass WordPress and use <code>%s</code> URL directly. Unfortunately the email notifications on HTTP failures when loading HLS will be disabled."
+msgstr ""
+
+#: stream-loader.class.php:403, beta/stream-loader.class.php:406
+msgid "Limit Video Quality"
+msgstr ""
+
+#: stream-loader.class.php:403, beta/stream-loader.class.php:406
+msgid "Change offered video qualities without having to reencode the video."
+msgstr ""
+
+#: stream-loader.class.php:406, beta/stream-loader.class.php:409
+msgid "240p"
+msgstr ""
+
+#: stream-loader.class.php:407, beta/stream-loader.class.php:410
+msgid "480p"
+msgstr ""
+
+#: stream-loader.class.php:408, beta/stream-loader.class.php:411
+msgid "720p"
+msgstr ""
+
+#: stream-loader.class.php:409, beta/stream-loader.class.php:412
+msgid "1080p"
+msgstr ""
+
+#: stream-loader.class.php:410, beta/stream-loader.class.php:413
+msgid "1440p"
+msgstr ""
+
+#: stream-loader.class.php:411, beta/stream-loader.class.php:414
+msgid "2160p (4K)"
+msgstr ""
+
+#: stream-loader.class.php:558, beta/stream-loader.class.php:561
+msgid "Clear cache"
+msgstr ""
+
+#: stream-loader.class.php:558, beta/stream-loader.class.php:561
+msgid "This will clear your Stream Loader cache."
+msgstr ""
+
+#: stream-loader.class.php:688, beta/stream-loader.class.php:691
+msgid "Stream Loader"
+msgstr ""
+
+#: timeline-previews.class.php:72, beta/timeline-previews.class.php:72
+msgid "Column count"
+msgstr ""
+
+#: timeline-previews.class.php:72, beta/timeline-previews.class.php:72
+msgid "Total count of columns in sprite"
+msgstr ""
+
+#: timeline-previews.class.php:75, beta/timeline-previews.class.php:75
+msgid "interval"
+msgstr ""
+
+#: timeline-previews.class.php:75, beta/timeline-previews.class.php:75
+msgid "Interval between thumbnails (default is 1)"
+msgstr ""
+
+#: timeline-previews.class.php:78, beta/timeline-previews.class.php:78
+msgid "Width"
+msgstr ""
+
+#: timeline-previews.class.php:78, beta/timeline-previews.class.php:78
+msgid "Width of single thumbnail (no total width of sprite)"
+msgstr ""
+
+#: timeline-previews.class.php:81, beta/timeline-previews.class.php:81
+msgid "Height"
+msgstr ""
+
+#: timeline-previews.class.php:81, beta/timeline-previews.class.php:81
+msgid "Height of single thumbnail (no total height of sprite)"
+msgstr ""
+
+#: timeline-previews.class.php:103, beta/timeline-previews.class.php:103
+msgid "Timeline Previews"
+msgstr ""
+
+#: vimeo.class.php:106, beta/vimeo.class.php:106
+msgid "FV Player Pro: Your Vimeo access token is invalid, your videos won't play. <a href=\"%s\">Click here</a> to fix this issue."
+msgstr ""
+
+#: vimeo.class.php:870, beta/vimeo.class.php:870
+msgid "Your Vimeo access token appears to be invalid: "
+msgstr ""
+
+#: vimeo.class.php:876, beta/vimeo.class.php:876
+msgid "We cannot refresh the Vimeo splash images and durations without it."
+msgstr ""
+
+#: beta/fv-wistia.class.php:238
+msgid "Use advanced embedding"
+msgstr ""
+
+#: beta/fv-wistia.class.php:238
+msgid "Instead of using Wistia player, videos will be played in FV Player Pro. Doesn't currently support Wistia timeline actions though."
+msgstr ""
+
+#: beta/stream-loader.class.php:404
+msgid "Emulate m3u8 files"
+msgstr ""
+
+#: beta/stream-loader.class.php:404
+msgid "Activate if playback on iOS fails."
+msgstr ""
+
+#: beta/stream-loader.class.php:404
+msgid "Some web servers refuse to accept HTTP range requests for PHP scripts. Enable this setting if you noticed your HLS videos do not play on iPhone and every playback will use the <code>/index.m3u8</code> URL with parameters."
+msgstr ""

@@ -1,0 +1,953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FV Player Pro 0.7.35\n"
+"POT-Creation-Date: 2017-02-20 17:21+0100\n"
+"PO-Revision-Date: 2017-02-20 17:21+0100\n"
+"Last-Translator: Polak Maros <polak.maros@foliovision.com>\n"
+"Language-Team: Foliovision <info@foliovision.com>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ads.exoclick.class.php:19 ../beta/ads.exoclick.class.php:19
+msgid "Exoclick Ads (Pro)"
+msgstr ""
+
+#: ../ads.exoclick.class.php:28 ../beta/ads.exoclick.class.php:28
+msgid "Exoclick login"
+msgstr ""
+
+#: ../ads.exoclick.class.php:34 ../beta/ads.exoclick.class.php:34
+msgid "Exoclick category ID"
+msgstr ""
+
+#: ../ads.exoclick.class.php:40 ../beta/ads.exoclick.class.php:40
+msgid "Exoclick zone ID"
+msgstr ""
+
+#: ../ads.exoclick.class.php:46 ../beta/ads.exoclick.class.php:46
+msgid "Exoclick site ID"
+msgstr ""
+
+#: ../ads.exoclick.class.php:53 ../beta/ads.exoclick.class.php:53
+#: ../beta/fv-player-pro.class.php:930 ../beta/fv-player-pro.class.php:977
+#: ../beta/fv-player-pro.class.php:1065 ../beta/fv-player-pro.class.php:1126
+#: ../beta/fv-player-pro.class.php:1263 ../beta/fv-player-pro.class.php:1435
+#: ../beta/fv-player-pro.class.php:1536 ../beta/rcp-bridge.php:62
+#: ../beta/stackpath.class.php:124 ../fv-player-pro.class.php:926
+#: ../fv-player-pro.class.php:1002 ../fv-player-pro.class.php:1090
+#: ../fv-player-pro.class.php:1151 ../fv-player-pro.class.php:1288
+#: ../fv-player-pro.class.php:1460 ../fv-player-pro.class.php:1561
+#: ../rcp-bridge.php:62
+msgid "Save All Changes"
+msgstr "Uložiť všechny změny"
+
+#: ../beta/fv-player-pro.class.php:177 ../fv-player-pro.class.php:172
+msgid "This ad will end in 0 seconds"
+msgstr "Reklama skončí za 0 sekund"
+
+#: ../beta/fv-player-pro.class.php:178 ../fv-player-pro.class.php:173
+msgid "Invalid Youtube video ID."
+msgstr "Neplatné ID Youtube videa."
+
+#: ../beta/fv-player-pro.class.php:179 ../fv-player-pro.class.php:174
+msgid "Please reload the page and try again."
+msgstr ""
+"Video soubor vypršel. <br /> Prosím obnovte stránku a přehrajte si jej znovu."
+
+#: ../beta/fv-player-pro.class.php:180 ../fv-player-pro.class.php:175
+msgid "Please reload the page and try again in a couple of minutes. "
+msgstr "Prosím obnovte stránku a přehrajte si jej znovu za několik minut."
+
+#: ../beta/fv-player-pro.class.php:181 ../fv-player-pro.class.php:176
+msgid "Couldn't find the required video type: "
+msgstr "Nepodařilo se najít požadovaný typ videa:"
+
+#: ../beta/fv-player-pro.class.php:182 ../fv-player-pro.class.php:177
+msgid "Skip"
+msgstr "přeskočit"
+
+#: ../beta/fv-player-pro.class.php:183 ../fv-player-pro.class.php:178
+msgid "Flash: Video Decryption Error."
+msgstr "Flash: chyba při dešifrování videa."
+
+#: ../beta/fv-player-pro.class.php:184 ../fv-player-pro.class.php:179
+msgid "Video file expired.<br />Please reload the page and play it again."
+msgstr ""
+"Video soubor vypršel. <br /> Prosím obnovte stránku a přehrajte si jej znovu."
+
+#: ../beta/fv-player-pro.class.php:185 ../fv-player-pro.class.php:180
+msgid "Video loaded, click to play."
+msgstr "Video načten, klepněte na tlačítko hrát."
+
+#: ../beta/fv-player-pro.class.php:199 ../beta/fv-player-pro.class.php:909
+#: ../beta/fv-player-pro.class.php:1975 ../beta/fv-player-pro.class.php:2849
+msgid "AB Loop"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:236 ../beta/fv-player-pro.class.php:249
+#: ../fv-player-pro.class.php:233 ../fv-player-pro.class.php:246
+msgid "Pro Features"
+msgstr "Pokročilé funkce"
+
+#: ../beta/fv-player-pro.class.php:237 ../beta/fv-player-pro.class.php:251
+#: ../beta/fv-player-pro.class.php:2862 ../beta/fv-player-pro.class.php:2907
+#: ../fv-player-pro.class.php:234 ../fv-player-pro.class.php:248
+msgid "Quality Switching"
+msgstr "Prepínanie kvality"
+
+#: ../beta/fv-player-pro.class.php:240 ../beta/fv-player-pro.class.php:250
+#: ../fv-player-pro.class.php:237 ../fv-player-pro.class.php:247
+msgid "CloudFront (Pro)"
+msgstr "CloudFront (Pro)"
+
+#: ../beta/fv-player-pro.class.php:241 ../beta/fv-player-pro.class.php:253
+#: ../fv-player-pro.class.php:238 ../fv-player-pro.class.php:250
+msgid "Vimeo (Pro)"
+msgstr "Vimeo (Pro)"
+
+#: ../beta/fv-player-pro.class.php:242 ../beta/fv-player-pro.class.php:254
+#: ../fv-player-pro.class.php:239 ../fv-player-pro.class.php:251
+msgid "YouTube (Pro)"
+msgstr "YouTube (Pro)"
+
+#: ../beta/fv-player-pro.class.php:243 ../fv-player-pro.class.php:240
+msgid "Amazon AWS Decoder (Pro)"
+msgstr "Amazon AWS Decoder (Pro)"
+
+#: ../beta/fv-player-pro.class.php:247 ../beta/fv-player-pro.class.php:252
+#: ../fv-player-pro.class.php:244 ../fv-player-pro.class.php:249
+msgid "Video Ads (Pro)"
+msgstr "Soukromý klíč"
+
+#: ../beta/fv-player-pro.class.php:263 ../fv-player-pro.class.php:260
+msgid "FV Player Pro YouTube"
+msgstr "FV Player Pro YouTube"
+
+#: ../beta/fv-player-pro.class.php:264
+msgid ""
+"YouTube videos are now automatically using the advanced embedding.<!--<br /"
+"><br />If you need to use the standard YouTube iframe embeds, disable the "
+"YouTube integration in the"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:264
+msgid "Youtube Settings"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:266 ../beta/fv-player-pro.class.php:279
+#: ../fv-player-pro.class.php:263 ../fv-player-pro.class.php:276
+msgid "Thanks for letting me know!"
+msgstr "Potvrdit"
+
+#: ../beta/fv-player-pro.class.php:276 ../fv-player-pro.class.php:273
+msgid "FV Player Pro Video Lightbox"
+msgstr "FV Player Pro Video Lightbox"
+
+#: ../beta/fv-player-pro.class.php:277 ../fv-player-pro.class.php:274
+msgid ""
+"<p>The video lightbox CSS prefix has changed from <code>cbox</code> to "
+"<code>fv_player_pro_box</code>. If you use custom styling for our lightbox, "
+"you need to fix your class names.</p><p>Sorry about inconvenience, but this "
+"was needed to improve our compatibility with various themes. If you are "
+"having issues use <a href=\"https://foliovision.com/support\">our support "
+"forums</a>.</p>"
+msgstr ""
+"<p>Video lightbox CSS prefix se změnil z <code>cbox</code> na "
+"<code>fv_player_pro_box</code>. Pokud používáte vlastní styly pro náš "
+"lightbox musíte si opravit názvy vašich tříd.</p><p>Omlouváme se za "
+"nepříjemnosti, které jsme způsobili, ale bylo to nutné pro zlepšení "
+"kompatibility z různými tématy. Pokud máte jakékoliv problémy použijte "
+"prosím <a href=\"https://foliovision.com/support\">naše fóra podpory</a>.<p>"
+
+#: ../beta/fv-player-pro.class.php:323
+msgid "Settings"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:346
+msgid "Documentation"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:354 ../fv-player-pro.class.php:351
+msgid ""
+"<strong>FV Wordpress Flowplayer</strong> is not installed or activated. "
+"Please <a href=\"plugin-install.php?tab=plugin-information&plugin=fv-"
+"wordpress-flowplayer&\" target=\"_blank\" title=\"FV Wordpress Flowplayer "
+"install page\">install</a> it and enter your FV Flowplayer license key."
+msgstr ""
+"<strong>FV Wordpress Flowplayer</strong> není nainstalován nebo aktivován. "
+"Prosím <a href=\"plugin-install.php?tab=plugin-information&plugin=fv-"
+"wordpress-flowplayer&\" target=\"_blank\" title=\"FV Wordpress Flowplayer "
+"install page\">nainstalujte</a> ho a zadejte svůj licenční FV Flowplayer "
+"klíč. "
+
+#: ../beta/fv-player-pro.class.php:372
+msgid "Use site default"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:374 ../fv-player-pro.class.php:371
+msgid "No ad"
+msgstr "žádná"
+
+#: ../beta/fv-player-pro.class.php:375 ../fv-player-pro.class.php:372
+msgid "Random"
+msgstr "náhodná"
+
+#: ../beta/fv-player-pro.class.php:397
+msgid ""
+"FV Player Pro: Please upgrade to FV Wordpress Flowplayer version 6.0.5.13 or "
+"above!"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:404
+msgid ""
+"Thank you for purchase. Your license will be renewed in couple of minutes."
+"<br/>\n"
+"              Please make sure you upgrade <strong>FV Player Pro</strong> "
+"and <strong>FV Player VAST</strong> if you are using it."
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:416
+msgid ""
+"The FV Player plugin is essential for FV Player Pro plugin.\\nDeactivating "
+"it will cause it not to function.\\nAre You sure You want to Deactivate it?"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:848 ../fv-player-pro.class.php:844
+msgid "Autoplay just once"
+msgstr "Automatické přehrávání jen jednou"
+
+#: ../beta/fv-player-pro.class.php:853 ../fv-player-pro.class.php:849
+msgid "Makes sure each video autoplays only once for each visitor."
+msgstr ""
+"Zabezpečí, že každé video sa přehraje automaticky pouze jednou pro každého "
+"návštěvníka.22"
+
+#: ../beta/fv-player-pro.class.php:858 ../fv-player-pro.class.php:854
+msgid "Custom start/end time (beta)"
+msgstr "Vlastní čas začátku/konce (beta verze)"
+
+#: ../beta/fv-player-pro.class.php:863 ../fv-player-pro.class.php:859
+msgid "Show only a smaller portion of your video."
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:864 ../fv-player-pro.class.php:860
+msgid ""
+"Not suitable as a content restriction, as the full video can be obtained by "
+"any skilled web developer and the feature doesn't work on iOS < 7 (use HLS "
+"and it will work on iOS 5 and 6) and Android < 4."
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:869 ../fv-player-pro.class.php:865
+msgid "Enable video lightbox"
+msgstr "Povolit video lightbox"
+
+#: ../beta/fv-player-pro.class.php:874 ../fv-player-pro.class.php:870
+msgid ""
+"You can also put in <code>&lt;a href=\"http://path.to.your/video.mp4\" class="
+"\"colorbox\"&gt;Your link title&lt;/a&gt;</code> for a quick lightboxed "
+"video."
+msgstr ""
+"Můžete také vložit<code>&lt;a href=\"http://cesta.k.vašemu/videu.mp4\" class="
+"\"colorbox\"&gt;Nadpis vašeho odkazu&lt;/a&gt;</code> pro rychlé vložení "
+"videa s lightbox"
+
+#: ../beta/fv-player-pro.class.php:879 ../fv-player-pro.class.php:875
+msgid "Use video lightbox for images as well"
+msgstr "Použít video lightbox také pro obrázky"
+
+#: ../beta/fv-player-pro.class.php:884 ../fv-player-pro.class.php:880
+msgid ""
+"Will group images as well as videos into the same lightbox gallery. Turn "
+"<strong>off</strong> your lightbox plugin when using this."
+msgstr ""
+"Sdruží obrázky stejně jako videa do lightbox galerie. <strong>Vypněte</"
+"strong> Váš lightbox plugin, když chcete použít tuto možnost."
+
+#: ../beta/fv-player-pro.class.php:889 ../fv-player-pro.class.php:885
+msgid "Scroll autoplay (beta)"
+msgstr "Automatické přehrávání při scrolování (beta verze)"
+
+#: ../beta/fv-player-pro.class.php:894 ../fv-player-pro.class.php:890
+msgid "Automatically plays any video that comes into the browser viewport"
+msgstr ""
+"Automaticky přehraje jakékoliv video, které se dostane do viditelné oblasti "
+"uživatele v prohlížeči"
+
+#: ../beta/fv-player-pro.class.php:899 ../beta/fv-player-pro.class.php:1957
+msgid "DRM Text (beta)"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:904
+msgid ""
+"Show user ID, IP and date over the video for short periods to allow you to "
+"track screen capture of your videos."
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:914
+msgid "Turn on AB Loop by defualt"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:919 ../fv-player-pro.class.php:915
+msgid "Debug"
+msgstr "Ladění"
+
+#: ../beta/fv-player-pro.class.php:924 ../fv-player-pro.class.php:920
+msgid "Print debug messages to JS console."
+msgstr "Vypíše zprávy ladění do JS konzole."
+
+#: ../beta/fv-player-pro.class.php:947 ../fv-player-pro.class.php:972
+msgid ""
+"See Amazon Web Services Account -> Security Credentials -> CloudFront Key "
+"Pairs to get your key pair. We need the Access Key ID and the private key. "
+"See our <a href=\"http://foliovision.com/player/secure-amazon-s3-"
+"guide#cloudfront\" target=\"_blank\">CloudFront guide</a>."
+msgstr ""
+"Přihlaste se na stránce Amazon Web Services, klikntie na Váš účet -> "
+"Security Credentials -> CloudFront Key Pairs abyste získali klíče. "
+"Potřebujeme Access Key ID a soukromý klíč. Prohlédněte si naši <a href="
+"\"https://foliovision.com/fv-flowplayer-dokumentace/video-hosting/"
+"poskytovani-soukromych-videi-s-amazon-s3\" target=\"_blank\">CloudFront "
+"příručku</a>."
+
+#: ../beta/fv-player-pro.class.php:952 ../fv-player-pro.class.php:977
+msgid "CloudFront domain"
+msgstr "CloudFront doména"
+
+#: ../beta/fv-player-pro.class.php:955 ../fv-player-pro.class.php:980
+msgid ""
+"Enter {something}.cloudfront.net or your mapped domain. You can enter both, "
+"separated by <code>,</code>."
+msgstr ""
+"Vložte {něco} .cloudfront.net nebo vaši namapovanou doménu. Je možné vložit "
+"obě, ale je třeba je oddělit znakem <code>,</code>."
+
+#: ../beta/fv-player-pro.class.php:959 ../beta/fv-player-pro.class.php:1033
+#: ../fv-player-pro.class.php:984 ../fv-player-pro.class.php:1058
+msgid "Access Key ID"
+msgstr "ID přístupového klíče"
+
+#: ../beta/fv-player-pro.class.php:965 ../fv-player-pro.class.php:990
+msgid "Private Key"
+msgstr "Soukromý klíč"
+
+#: ../beta/fv-player-pro.class.php:970
+msgid "Your Private Key file is present"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:970
+msgid "and appears to be valid"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:970
+msgid ""
+"but <strong>invalid</strong> (Make sure it contains both \"BEGIN RSA PRIVATE "
+"KEY\" and \"END RSA PRIVATE KEY\")"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:970
+msgid "Click"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:970
+msgid "to put in a new one"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:972 ../fv-player-pro.class.php:997
+msgid "Enter your Private Key file here."
+msgstr "Sem vložte váš soubor s privátním klíčem."
+
+#: ../beta/fv-player-pro.class.php:1028 ../fv-player-pro.class.php:1053
+msgid ""
+"You need to setup your key decoder to be able to use encrypted HLS streams "
+"on AWS. See our <a href=\"https://foliovision.com/player/video-hosting/"
+"securing-your-video/hls-stream\" target=\"_blank\">HLS guide</a>."
+msgstr ""
+"Je třeba nastavit váš klíč dekodéru, abyste mohli využívat zašifrované HLS "
+"datové proudy na AWS. Přečtěte si náš <a href=\"https://foliovision.com/fv-"
+"flowplayer-dokumentace/video-hosting/zabezpecte-sve-video/jak-nastavit-hls-"
+"datovy-proud-pomoci-amazon-elastic-transcoder\" target=\"_blank\">HLS návod</"
+"a>."
+
+#: ../beta/fv-player-pro.class.php:1039 ../fv-player-pro.class.php:1064
+msgid "Access Key Secret"
+msgstr "Tajný přístupový klíč"
+
+#: ../beta/fv-player-pro.class.php:1046 ../fv-player-pro.class.php:1071
+msgid "Region"
+msgstr "Oblast"
+
+#: ../beta/fv-player-pro.class.php:1049 ../fv-player-pro.class.php:1074
+msgid "Select the region"
+msgstr "Vyberte oblast"
+
+#: ../beta/fv-player-pro.class.php:1050 ../fv-player-pro.class.php:1075
+msgid "Frankfurt"
+msgstr "Frankfurt"
+
+#: ../beta/fv-player-pro.class.php:1051 ../fv-player-pro.class.php:1076
+msgid "Ireland"
+msgstr "Irsko"
+
+#: ../beta/fv-player-pro.class.php:1052 ../fv-player-pro.class.php:1077
+msgid "Northern California"
+msgstr "Severní Kalifornie"
+
+#: ../beta/fv-player-pro.class.php:1053 ../fv-player-pro.class.php:1078
+msgid "Oregon"
+msgstr "Oregon"
+
+#: ../beta/fv-player-pro.class.php:1054 ../fv-player-pro.class.php:1079
+msgid "Sao Paulo"
+msgstr "Sao Paulo"
+
+#: ../beta/fv-player-pro.class.php:1055 ../fv-player-pro.class.php:1080
+msgid "Singapore"
+msgstr "Singapur"
+
+#: ../beta/fv-player-pro.class.php:1056 ../fv-player-pro.class.php:1081
+msgid "Sydney"
+msgstr "Sydney"
+
+#: ../beta/fv-player-pro.class.php:1057 ../fv-player-pro.class.php:1082
+msgid "Tokyo"
+msgstr "Tokio"
+
+#: ../beta/fv-player-pro.class.php:1058 ../fv-player-pro.class.php:1083
+msgid "US Standard"
+msgstr "US Standard"
+
+#: ../beta/fv-player-pro.class.php:1084 ../fv-player-pro.class.php:1109
+msgid ""
+"If you upload your videos in multiple qualities like <code>my-video-hd.mp4</"
+"code>, <code>my-video-sd.mp4</code>, <code>my-video-mobile.mp4</code>, then "
+"enter the <code>-hd</code>, <code>-sd</code> and <code>-mobile</code> "
+"filename parts into the fields below together with the labels. Then enable "
+"the quality switching for the video in the [fvplayer] shortcode. See <a href="
+"\"https://foliovision.com/player/switch-video-quality\" target=\"_new\">How "
+"to set up quality switching</a>"
+msgstr ""
+"Pokud nahráváte vaše videa v různých kvalitách jako například <code>moje-"
+"video-hd.mp4</code>, <code>moje-video-sd.mp4</code>, <code>moje-video-mobile."
+"mp4</code>, pak zadejte <code>-hd</code>, <code>-sd</code> a/nebo <code>-"
+"mobile</code> názvy souborů do políček níže spolu s jejich popisem. Zapněte "
+"přepínání kvality pro video v [fvplayer] shortcode. Přečtěte si <a href="
+"\"https://foliovision.com/fv-flowplayer-dokumentace/zakladni-nastaveni/jak-"
+"nastavit-prepinani-kvality-videa\" target=\"_new\">jak nastavit přepínání "
+"kvality videa?</a>"
+
+#: ../beta/fv-player-pro.class.php:1094 ../fv-player-pro.class.php:1119
+msgid "Naming scheme"
+msgstr "Schéma pro pojmenování"
+
+#: ../beta/fv-player-pro.class.php:1097 ../fv-player-pro.class.php:1122
+msgid "Label"
+msgstr "Označení"
+
+#: ../beta/fv-player-pro.class.php:1115 ../beta/fv-player-pro.class.php:1249
+#: ../fv-player-pro.class.php:1140 ../fv-player-pro.class.php:1274
+msgid "Remove"
+msgstr "Odstranit"
+
+#: ../beta/fv-player-pro.class.php:1127 ../fv-player-pro.class.php:1152
+msgid "Add quality settings"
+msgstr "Přidat nastavení kvality"
+
+#: ../beta/fv-player-pro.class.php:1159 ../fv-player-pro.class.php:1184
+msgid ""
+"This feature lets You configure multiple, clickable Video Ads, that can be "
+"played before or after Your videos."
+msgstr ""
+"Tato funkce vám umožní nakonfigurovat několik klikacích reklam, které lze "
+"přehrát před nebo po vašem videu."
+
+#: ../beta/fv-player-pro.class.php:1162 ../fv-player-pro.class.php:1187
+msgid "You can configure video ads globally, or on a per video basis."
+msgstr ""
+"Video reklamy můžete konfigurovat globální nebo jednotlivě pro každé video."
+
+#: ../beta/fv-player-pro.class.php:1181 ../fv-player-pro.class.php:1206
+msgid "Default pre-roll ad"
+msgstr "Výchozí reklama před videem"
+
+#: ../beta/fv-player-pro.class.php:1186 ../fv-player-pro.class.php:1211
+msgid "Set which ad should be played before videos."
+msgstr "Nastavte, která reklama se má spustit před přehrání videí."
+
+#: ../beta/fv-player-pro.class.php:1191 ../fv-player-pro.class.php:1216
+msgid "Default post-roll ad"
+msgstr "Výchozí  reklama po videu"
+
+#: ../beta/fv-player-pro.class.php:1196 ../fv-player-pro.class.php:1221
+msgid "Set which ad should be played after videos."
+msgstr "Nastavte, která reklama se má spustit po přehrání videí."
+
+#: ../beta/fv-player-pro.class.php:1201 ../fv-player-pro.class.php:1226
+msgid "Default ad skip time"
+msgstr "Výchozí čas pro přeskočení reklamy"
+
+#: ../beta/fv-player-pro.class.php:1204
+msgid "Enter value in seconds"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1205 ../fv-player-pro.class.php:1230
+msgid "Enter the number of seconds after which an ad can be skipped."
+msgstr "Počet sekund po kolika je možné přeskočit přehrávání reklamy."
+
+#: ../beta/fv-player-pro.class.php:1214 ../fv-player-pro.class.php:1239
+msgid "ID"
+msgstr "ID"
+
+#: ../beta/fv-player-pro.class.php:1214 ../fv-player-pro.class.php:1239
+msgid "Status"
+msgstr "Stav"
+
+#: ../beta/fv-player-pro.class.php:1242 ../fv-player-pro.class.php:1267
+msgid "Name"
+msgstr "Název"
+
+#: ../beta/fv-player-pro.class.php:1242 ../fv-player-pro.class.php:1267
+msgid "Ad name"
+msgstr "Název reklamy"
+
+#: ../beta/fv-player-pro.class.php:1243 ../fv-player-pro.class.php:1268
+msgid "Click URL"
+msgstr "Po kliknutí přesměrovat na"
+
+#: ../beta/fv-player-pro.class.php:1243 ../fv-player-pro.class.php:1268
+msgid "Clicking the video ad will open the URL in new window"
+msgstr ""
+"Při kliknutí na prohrávající se reklamu se otevře URL adresa v novém okně"
+
+#: ../beta/fv-player-pro.class.php:1244 ../fv-player-pro.class.php:1269
+msgid "Video"
+msgstr "Video"
+
+#: ../beta/fv-player-pro.class.php:1244 ../fv-player-pro.class.php:1269
+msgid "Enter the video URL here"
+msgstr "Zadejte URL adresu videa"
+
+#: ../beta/fv-player-pro.class.php:1248 ../fv-player-pro.class.php:1273
+msgid "Disable"
+msgstr "Zakázat"
+
+#: ../beta/fv-player-pro.class.php:1264 ../fv-player-pro.class.php:1289
+msgid "Add more video ads"
+msgstr "Přidat více videoreklam"
+
+#: ../beta/fv-player-pro.class.php:1293 ../fv-player-pro.class.php:1318
+msgid "Are you sure you want to remove the video ad?"
+msgstr "Jste si jisti, že chcete odstranit tuto videoreklamu?"
+
+#: ../beta/fv-player-pro.class.php:1315 ../fv-player-pro.class.php:1340
+msgid "Advanced Vimeo embedding"
+msgstr "Pokročilé Vimeo vkládání"
+
+#: ../beta/fv-player-pro.class.php:1320 ../fv-player-pro.class.php:1345
+msgid "Use Vimeo as your video host and use all of FV Flowplayer features."
+msgstr ""
+"Používejte Vimeo jako vašeho video hostitele a používejte všechny funkce FV "
+"Flowplayer."
+
+#: ../beta/fv-player-pro.class.php:1332 ../fv-player-pro.class.php:1357
+msgid "Currently "
+msgstr "V současné době "
+
+#: ../beta/fv-player-pro.class.php:1333 ../fv-player-pro.class.php:1358
+msgid " Vimeo video is cached."
+msgstr " Vimeo video je uloženo v mezipaměti."
+
+#: ../beta/fv-player-pro.class.php:1333 ../fv-player-pro.class.php:1358
+msgid " Vimeo videos are cached."
+msgstr "Vimeo videí je uložených v mezipaměti."
+
+#: ../beta/fv-player-pro.class.php:1339 ../fv-player-pro.class.php:1364
+msgid ""
+"Vimeo <strong>Plus</strong> or <strong>Pro</strong> account is required. Due "
+"to Vimeo terms of use we require that we check your account before serving "
+"videos via FV Player. Simply <a href=\"https://developer.vimeo.com/apps/new"
+"\">create a new Vimeo App</a> (use your site name, site description and site "
+"URL) and then copy \"Access token\" from the \"oAuth2\" tab."
+msgstr ""
+"Je zapotřebí Vimeo <strong>Plus</strong> nebo <strong>Pro</strong> účet. "
+"Vzhledem k podmínkám používání Vimeo, je třeba provést kontrolu Vašeho účtu "
+"před poskytováním vdeií přes FV Player. Jednoduše <a href=\"https://"
+"developer.vimeo.com/apps/new\">vytvořte novou vím aplikaci (app)</a> "
+"(použijte název, popis a URL Vaší stránky) a pak zkopírujte přístupový token "
+"\"Access token\" z \"oAuth2\" karty."
+
+#: ../beta/fv-player-pro.class.php:1344 ../fv-player-pro.class.php:1369
+msgid "Access token"
+msgstr "Přístupový token"
+
+#: ../beta/fv-player-pro.class.php:1347 ../fv-player-pro.class.php:1372
+msgid "Defined as FV_PLAYER_VIMEO_KEY in your wp-config.php: "
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1355 ../fv-player-pro.class.php:1380
+msgid "Your Vimeo access token appears to be <strong>invalid</strong>"
+msgstr "Váš Vimeo přístupový token je pravděpodobně <strong>neplatný</strong>"
+
+#: ../beta/fv-player-pro.class.php:1355 ../fv-player-pro.class.php:1380
+msgid "last check"
+msgstr "poslední kontrola"
+
+#: ../beta/fv-player-pro.class.php:1357 ../fv-player-pro.class.php:1382
+msgid "Your Vimeo access token has been successfully verified (last check"
+msgstr "Váš přístupový Vimeo token byl úspěšně ověřen (poslední kontrola"
+
+#: ../beta/fv-player-pro.class.php:1373 ../fv-player-pro.class.php:1398
+msgid "Enable quality switching:"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1378 ../fv-player-pro.class.php:1403
+msgid ""
+"Without this option the HD video will be used all the time, with exception "
+"of iPhone and Android which get mobile quality."
+msgstr ""
+"Bez použití této volby se budou videa vždy přehrávat v HD kvalitě, kromě "
+"iPhone a Androidu, kde se budou přehrávat v mobilní kvalitě."
+
+#: ../beta/fv-player-pro.class.php:1383 ../beta/fv-player-pro.class.php:1516
+#: ../fv-player-pro.class.php:1408 ../fv-player-pro.class.php:1541
+msgid "Disable video titles:"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1388 ../beta/fv-player-pro.class.php:1521
+#: ../fv-player-pro.class.php:1413 ../fv-player-pro.class.php:1546
+msgid ""
+"Normally the video title is parsed into the shortcode when saving the post, "
+"with this setting it won't appear."
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1393 ../fv-player-pro.class.php:1418
+msgid "Enable MPEG-DASH (Beta):"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1402 ../fv-player-pro.class.php:1427
+msgid ""
+"MPEG-DASH is the new video streaming format with automated quality "
+"switching. Applies for modern desktop browsers, mobile users get HLS or MP4 "
+"and legacy browsers MP4."
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1407 ../fv-player-pro.class.php:1432
+msgid "Force <code>iframe</code> Embedding"
+msgstr "Vynutit <code>iframe</code> vkládání"
+
+#: ../beta/fv-player-pro.class.php:1412 ../fv-player-pro.class.php:1437
+msgid ""
+"If you experience issues with our Vimeo integration you can enable this "
+"option temporarily to fix playback of at least single videos. Playlists and "
+"lightbox are not supported."
+msgstr ""
+"Pokud máte problémy s naší Vimeo integrací, můžete dočasně tuto volbu "
+"zapnout pro opravení přehrávání jednotlivých videí. Playlisty a lightbox "
+"nejsou podporovány."
+
+#: ../beta/fv-player-pro.class.php:1417 ../fv-player-pro.class.php:1442
+msgid "Turbocharge Ajax Vimeo loading"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1424 ../fv-player-pro.class.php:1449
+msgid ""
+"Vimeo requests will be handled by a php file rather than loading entire "
+"WordPress."
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1426 ../fv-player-pro.class.php:1451
+msgid ""
+"To use this feature you have to put the following into your wp-config.php "
+"file:"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1436 ../fv-player-pro.class.php:1461
+msgid "Convert Vimeo embed codes"
+msgstr "Skonvertovat vložené Vimeo kódy"
+
+#: ../beta/fv-player-pro.class.php:1436 ../fv-player-pro.class.php:1461
+msgid ""
+"This converts the IFRAME and OBJECT Vimeo embeds into [fvplayer] shortcodes."
+"\\n\\n Please make sure you backup your database before continuing."
+msgstr ""
+"Tímto krokem prevedete vložené IFRAME a OBJECT Vimeo tagy do [fvplayer] "
+"shortcodes.\\n\\nUjistěte se, že máte zálohovanou databázi před pokračováním."
+
+#: ../beta/fv-player-pro.class.php:1482 ../fv-player-pro.class.php:1507
+msgid ""
+"We use the Chromeless API so general <a href=\"#fv_flowplayer_skin\">FV "
+"Player settings</a> apply here."
+msgstr ""
+"Používáme Chromeless API takže obecná <a href=\"#fv_flowplayer_skin\">FV "
+"Player nastavení</a> použijte zde."
+
+#: ../beta/fv-player-pro.class.php:1497 ../fv-player-pro.class.php:1522
+msgid "Remove logo: (beta)"
+msgstr "Odstranit logo: (beta verze)"
+
+#: ../beta/fv-player-pro.class.php:1506 ../fv-player-pro.class.php:1531
+msgid "Enable quality switching: (beta)"
+msgstr "Povolit přepínání kvality: (beta verze)"
+
+#: ../beta/fv-player-pro.class.php:1511 ../fv-player-pro.class.php:1536
+msgid ""
+"We automatically pick the best quality for you based on the device, player "
+"size and connection speed. With this option you can toggle the quality "
+"manually."
+msgstr ""
+"Automaticky vybíráme nejlepší kvalitu videa na základě zařízení, velikosti "
+"přehrávače a rychlosti připojení. S touto možností můžete manuálně přepínat "
+"kvalitu."
+
+#: ../beta/fv-player-pro.class.php:1526 ../fv-player-pro.class.php:1551
+msgid "Google Developer Key"
+msgstr "Vývojářský klíč Google"
+
+#: ../beta/fv-player-pro.class.php:1530 ../fv-player-pro.class.php:1555
+msgid ""
+"Required for a reliable YouTube splash screen and YouTube video duration "
+"parsing. Start a new project at <a href=\"https://console.developers.google."
+"com/\" target=\"_blank\">Google Developers Console</a> and make sure YouTube "
+"Data API is enabled for the project."
+msgstr ""
+"Potřebné pro úspěšné načítání úvodní obrazovky YouTube a zjišťování délky "
+"trvání YouTube videa. Začněte nový projekt na <a href=\"https://console."
+"developers.google.com/\" target=\"_blank\">Google Developers Console</a> "
+"stránce a ujistěte se, že máte YouTube Data API zapnuto pro váš projekt."
+
+#: ../beta/fv-player-pro.class.php:1537 ../fv-player-pro.class.php:1562
+msgid "Convert YouTube embed codes"
+msgstr "Konvertovat vložené YouTube kódy"
+
+#: ../beta/fv-player-pro.class.php:1537 ../fv-player-pro.class.php:1562
+msgid ""
+"This converts the IFRAME and OBJECT YouTube embeds into [fvplayer] "
+"shortcodes.\\n\\n Please make sure you backup your database before "
+"continuing."
+msgstr ""
+"Tímto krokem prevedete vložené IFRAME a OBJECT YouTube tagy do [fvplayer] "
+"shortcodes.\\n\\nUjistěte se, že máte zálohovanou databázi před pokračováním."
+
+#: ../beta/fv-player-pro.class.php:1921
+msgid "Flip"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1947 ../fv-player-pro.class.php:895
+msgid "Chapters (beta)"
+msgstr "Kapitoly (beta verze)"
+
+#: ../beta/fv-player-pro.class.php:1952 ../fv-player-pro.class.php:900
+msgid "Supports VTT chapters."
+msgstr "Podpora pro VTT kapitoly."
+
+#: ../beta/fv-player-pro.class.php:1966 ../beta/fv-player-pro.class.php:2855
+#: ../beta/fv-player-pro.class.php:2900 ../fv-player-pro.class.php:2832
+#: ../fv-player-pro.class.php:2878
+msgid "Horizontal Flip"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:1970 ../fv-player-pro.class.php:909
+msgid ""
+"Adds shortcode editor option for a user button to flip video horizontally."
+msgstr ""
+"Přidá do shortcode editoru možnost přetočit video horizontálně pomocí "
+"tlačítka."
+
+#: ../beta/fv-player-pro.class.php:1979
+msgid "Adds shortcode editor option for AB loop function"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:2821 ../fv-player-pro.class.php:2798
+msgid "Pro features"
+msgstr "Pro funkce"
+
+#: ../beta/fv-player-pro.class.php:2826
+msgid "Lightbox popup"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:2829
+msgid "Width"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:2830
+msgid "Height"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:2831
+msgid "Caption"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:2835 ../fv-player-pro.class.php:2812
+msgid "Pre-roll Ad"
+msgstr "Výchozí reklama před videem"
+
+#: ../beta/fv-player-pro.class.php:2841 ../fv-player-pro.class.php:2818
+msgid "Post-roll Ad"
+msgstr "Výchozí  reklama po videu"
+
+#: ../beta/fv-player-pro.class.php:2866 ../beta/fv-player-pro.class.php:2911
+msgid "Show hint"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:2874 ../beta/fv-player-pro.class.php:2919
+#: ../fv-player-pro.class.php:2851 ../fv-player-pro.class.php:2897
+msgid "Encrypted HLS"
+msgstr "Šifrovaný HLS"
+
+#: ../beta/fv-player-pro.class.php:2876 ../beta/fv-player-pro.class.php:2921
+msgid "Decryption key"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:2877 ../beta/fv-player-pro.class.php:2922
+msgid "Encryption key"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:2879 ../beta/fv-player-pro.class.php:2924
+#: ../fv-player-pro.class.php:2856 ../fv-player-pro.class.php:2902
+msgid "Decrypt"
+msgstr "Dešifrovat"
+
+#: ../beta/fv-player-pro.class.php:2928
+msgid "DRM Text"
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:2949 ../fv-player-pro.class.php:2921
+msgid "Start/End"
+msgstr "Začátek / Konec"
+
+#: ../beta/fv-player-pro.class.php:2953
+msgid ""
+"Enter hh:mm:ss. You may enter both or just one value, leave empty for full "
+"video."
+msgstr ""
+
+#: ../beta/fv-player-pro.class.php:2957 ../fv-player-pro.class.php:2929
+msgid "Chapters"
+msgstr "Kapitoly"
+
+#: ../beta/fv-player-pro.class.php:2962 ../fv-player-pro.class.php:2934
+msgid "Add Chapters"
+msgstr "Přidaj kapitoly"
+
+#: ../beta/fv-player-pro.class.php:3302 ../fv-player-pro.class.php:3257
+msgid "FV Player Pro: Your Vimeo access token appears to be invalid"
+msgstr "FV Player Pro: Váš Vimeo přístupový token je pravděpodobně neplatný"
+
+#: ../beta/fv-player-pro.class.php:3302 ../fv-player-pro.class.php:3257
+msgid "settings"
+msgstr "nastavenia"
+
+#: ../beta/rcp-bridge.php:20 ../rcp-bridge.php:20
+msgid "Pay Per View (Pro) (beta)"
+msgstr "Poplatek za zhlédnutí (Pro) (beta verze)"
+
+#: ../beta/rcp-bridge.php:75 ../rcp-bridge.php:75
+msgid ""
+"FV Player Pro integrates with <a href=\"http://restrictcontentpro.com/"
+"pricing/\">Restrict Content Pro</a> for pay per view - video rentals. You "
+"must install Restrict Content Pro first."
+msgstr ""
+"FV Player Pro integruje s <a href=\"https://restrictcontentpro.com/pricing/"
+"\">Restrict Content Pro</a> pro placený za shlédnutí - videopůjčovna. Je "
+"nutné nejprve nainstalovat Restrict Content Pro."
+
+#: ../beta/s3.class.php:64 ../s3.class.php:64
+msgid "Amazon S3 Ajax (Pro)"
+msgstr ""
+
+#: ../beta/s3.class.php:69 ../s3.class.php:69
+msgid ""
+"Check this to improve security of your Amazon S3 videos configured in "
+"Hosting -> Amazon S3 Protected Content."
+msgstr ""
+
+#: ../beta/stackpath.class.php:110
+msgid "StackPath domain"
+msgstr ""
+
+#: ../beta/stackpath.class.php:113
+msgid ""
+"Enter {something}.stackpathdns.com or your mapped domain. You can enter "
+"both, separated by <code>,</code>."
+msgstr ""
+
+#: ../beta/stackpath.class.php:117
+msgid "StackPath Secure Token"
+msgstr ""
+
+#: ../beta/stackpath.class.php:133
+msgid "StackPath"
+msgstr ""
+
+#: ../fp-api-private.php:336
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Během API požadavku došlo k neočekávané HTTP chybě.</p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">Zkuste to znovu</a>"
+
+#: ../fp-api-private.php:339
+msgid "An unknown error occurred"
+msgstr "Nastala neznámá chyba"
+
+#: ../fv-player-pro.class.php:394
+msgid ""
+"FV Player Pro: Please upgrade to FV Wordpress Flowplayer version 6.0.3 or "
+"above!"
+msgstr ""
+"FV Player Pro: prosím aktualizujte FV Wordpress Flowplayer na verzi 6.0.3 "
+"nebo vyšší!"
+
+#: ../fv-player-pro.class.php:905
+msgid "Horizontal Flip option"
+msgstr "Možnost horizontálního přetočení"
+
+#: ../fv-player-pro.class.php:2872
+msgid "AB loop"
+msgstr ""
+
+#: ../fv-player-pro.php:69
+msgid ""
+"FV Player Pro: You are currently using the beta release, please review the "
+"changelog for any \"Beta:\" changes and test your videos carefully."
+msgstr ""
+"FV Player Pro: Momentálně používáte beta verzi, přečtěte si changelog pro "
+"jakoukoli \"Beta:\" změnu a pečlivě otestujte vaše videa. "
+
+#: ../fv-player-pro.php:99
+msgid "Are you sure you want to switch your FV Player Pro release to beta?"
+msgstr "Jste si jisti, že chcete změnit svůj FV Player Pro release na beta?"
+
+#: ../fv-player-pro.php:102
+msgid "Are you sure you want to switch your FV Player Pro beta to release?"
+msgstr "Jste si jisti, že chcete změnit svůj FV Player Pro beta na release?"
+
+#~ msgid "Couldn't find the required video type"
+#~ msgstr "Nepodařilo se najít požadovaný typ videa"
+
+#~ msgid ""
+#~ "Show only a smaller portion of your video. Not suitable as a content "
+#~ "restriction, as the full video can be obtained by any skilled web "
+#~ "developer and the feature doesn't work on iOS < 7 (use HLS and it will "
+#~ "work on iOS 5 and 6) and Android < 4."
+#~ msgstr ""
+#~ "Zobrazí vybraný úsek z vašeho videa. Toto není vhodný způsob jak zamezit "
+#~ "přístup k celému obsahu, protože celé video může být získané zkušeným "
+#~ "webovým vývojářům, a tato funkce nefunguje na iOS < 7 (při použití HLS "
+#~ "funguje na iOS 5 a 6) a Android < 4."
+
+#~ msgid "Horizontal Flip Button"
+#~ msgstr "Možnost horizontálního přetočení"
+
+#~ msgid ""
+#~ "Show only a smaller portion of your video. Not suitable as a content "
+#~ "restriction, as the full video can be obtained by any skilled web "
+#~ "developer and the feature doesnt "
+#~ msgstr "Kravina"
